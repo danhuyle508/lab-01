@@ -1,4 +1,5 @@
-div{
+div{              
     box-sizing: border-box;
     text-align: center;
+    display: flex;
 }
