@@ -82,7 +82,7 @@
         height: 200px;
     }
     #box-e, #box-f, #box-g, #box-h{
-        flex-wrap:nowrap;
+        flex-wrap: nowrap;
         width: 190px;
         height: 250px;
         border: solid 1px black;
